@@ -28,7 +28,7 @@
 
 -author('stephen.roettger@googlemail.com').
 
--include("scram.hrl").
+-include("ejabberd.hrl").
 -include("logger.hrl").
 
 %% External exports
